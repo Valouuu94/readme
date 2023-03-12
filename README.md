@@ -30,7 +30,7 @@ Cela risque de prendre un peu de temps...
 Une fois l'installation terminée :
 
 Excuter les commandes suivantes (dans l'ordre bien-sûr) :
-vagrant ssh ansible -> 
+vagrant ssh ansible -> <br>
 ssh-keygen -t rsa ->
 ssh-copy-id vagrant@192.168.99.11 -> tapper
 yes / puis saissisez le mot de passe suivant : vagrant ->
