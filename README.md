@@ -2,11 +2,13 @@
 ## Projet DevOps
 
 Ce que vous allez passer 5 à 10 minutes à installer !
-Nous aurons pris des jours et des nuits à paramètres !
+Nous auvons pris des jours et des nuits à paramètrer !
+
+Voici le tres Grand Sommaire de ce tres Grand PROJET :
 
 - Prérequis 
 - Installation et Commandes 
-- ✨ Résultat  ✨
+- ✨ Résultat ✨
 
 ## Prérequis
 
